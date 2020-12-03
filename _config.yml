@@ -12,7 +12,7 @@ github_repo: "https://github.com/leiyuehui/leiyuehui.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/ronger.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lei.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
