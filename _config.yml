@@ -1,24 +1,24 @@
 ﻿# Site settings
-title: Xinxin Blog
-SEOTitle: 新新的博客 | Xinxin Blog
-header-img: img/post-bg-rwd.jpg
-email: runsxx@163.com
+title: Earl Blog
+SEOTitle: 雷跃辉的博客 | Earl Blog
+header-img: img/ronger.jpg
+email: leiyuehui@inspur.com
 description: "Every failure is leading towards success."
-keyword: "Xin, Xin Blog, 新新的博客"
-url: "http://xinxin2018.github.io"          # your host, for absolute URL
+keyword: "Earl Blog, 雷跃辉的博客"
+url: "http://leiyuehui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xinxin2018/xinxin2018.github.io.git" # you code repository
+github_repo: "https://github.com/leiyuehui/leiyuehui.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/active-xinxin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ronger.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:    xinxin2018
+github_username:    leiyuehui
 
 
 
@@ -60,9 +60,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 8e86e682fef0f09a1386                           #生成的clientID
   clientSecret: be51e945bbe413e3a93571164c36ae304ee118c7    #生成的clientSecret
-  repo: xinxin2018.github.io    #仓库名称
-  owner: xinxin2018    #github用户名
-  admin: xinxin2018
+  repo: leiyuehui.github.io    #仓库名称
+  owner: leiyuehui   #github用户名
+  admin: leiyuehui
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
