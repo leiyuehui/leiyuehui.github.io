@@ -1,10 +1,10 @@
 ﻿# Site settings
-title: You are my today and all of my tomorrows
-SEOTitle: Mr.Lei@Ms.Wang
+title: A Boy And A Girl
+SEOTitle: Mr.Lei|Ms.Wang
 header-img: img/ronger.jpg
 email: leiyuehui@inspur.com
 description: "If I could,I would wrap my arms around you and just hold you until the hurt went away."
-keyword: "Earl Blog, 雷跃辉的博客"
+keyword: "You are my today and all of my tomorrows"
 url: "http://leiyuehui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/leiyuehui/leiyuehui.github.io.git" # you code repository
